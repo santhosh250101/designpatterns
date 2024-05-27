@@ -7,7 +7,7 @@ Design patterns are typical solutions to commonly occurring problems in software
 1. **Singleton**: Ensures that a class has only one instance and provides a global point of access to it. [ ]
 2. **Factory Method**: Defines an interface for creating an object but lets subclasses alter the type of objects that will be created. [✅]
 3. **Abstract Factory**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes. [✅]
-4. **Builder**: Separates the construction of a complex object from its representation, allowing the same construction process to create different representations. [✅ ]
+4. **Builder**: Separates the construction of a complex object from its representation, allowing the same construction process to create different representations. [✅]
 5. **Prototype**: Specifies the kinds of objects to create using a prototypical instance, and creates new objects by copying this prototype. [✅]
 
 ## Structural Design Patterns
