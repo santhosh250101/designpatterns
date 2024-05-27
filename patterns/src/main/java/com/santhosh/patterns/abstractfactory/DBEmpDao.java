@@ -1,0 +1,8 @@
+package com.santhosh.patterns.abstractfactory;
+
+public class DBEmpDao implements Dao{
+    @Override
+    public void saveData() {
+        System.out.println("Db Dept Data write successful");
+    }
+}
