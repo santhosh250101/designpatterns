@@ -23,7 +23,7 @@ Design patterns are typical solutions to commonly occurring problems in software
 ## Behavioral Design Patterns
 
 1. **Chain of Responsibility**: Passes a request along a chain of handlers, allowing each handler to either process the request or pass it to the next handler in the chain. [ ]
-2. **Command**: Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations. [ ]
+2. **Command**: Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations. [✅]
 3. **Interpreter**: Defines a representation for a grammar and an interpreter that uses the representation to interpret sentences in the language. [ ]
 4. **Iterator**: Provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation. [ ]
 5. **Mediator**: Defines an object that encapsulates how a set of objects interact, promoting loose coupling by preventing objects from referring to each other explicitly. [ ]
