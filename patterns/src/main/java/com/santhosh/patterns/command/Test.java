@@ -14,7 +14,11 @@ public class Test {
         OnCommand onCommand = new OnCommand(television);
 
         remoteControl.setCommand(onCommand);
+        // client will simply press button
+        
         remoteControl.pressButton();
+
+        // client -> invoker(remote)-> command-> receiver
 
     }
 }
